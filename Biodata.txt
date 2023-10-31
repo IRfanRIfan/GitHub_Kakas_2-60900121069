@@ -1,0 +1,4 @@
+- MY DATA
+  NAMA       : MUH IRFAN
+  NIM        : 60900121069
+  KELAS      : A
